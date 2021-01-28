@@ -1,6 +1,6 @@
 # Latitutde effect on weather conditions - python_api
 
-![](Images/equatorsign.png)
+![](code/Images/equatorsign.png)
 
 Project Description
 
