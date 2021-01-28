@@ -54,7 +54,7 @@ Latitude vs cloudiness
 ![](code/Images/Cloudiness%20vs%20Latitude%20in%20select%20Cities.png)
 
 Latitude vs Wind speed
-![](code/Images/Wind Speed%20vs%20Latitude%20in%20select%20Cities.png)
+![](code/Images/Wind%20Speed%20vs%20Latitude%20in%20select%20Cities.png)
 
 Humidity Heatmap
 ![](code/Images/heatmap.png)
