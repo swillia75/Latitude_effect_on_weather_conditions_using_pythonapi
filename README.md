@@ -46,14 +46,19 @@ VacationPy.ipynb– contains code to create humidity heat map and hotel map
 Results
 Latitude vs Max Temp
 ![](code/Images/Temperature%20vs%20Latitude%20in%20Select%20Cities.png)
-Latitude vs humidity
+
+Latitude vs Humidity
 ![](code/Images/Humidity%20vs%20Latitude%20in%20select%20cities.png)
+
 Latitude vs cloudiness
-![](code/Images/Cloudiness%20vs%20Latitude%20in%20select%20Cities)
+![](code/Images/Cloudiness%20vs%20Latitude%20in%20select%20Cities.png)
+
 Latitude vs Wind speed
 ![](code/Images/WInd Speed%20vs%20Latitude%20in%20select%20Cities.png)
+
 Humidity Heatmap
 ![](code/Images/heatmap.png)
+
 Hotel map
 ![](code/Images/hotel_map.png)
 
